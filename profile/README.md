@@ -1,7 +1,7 @@
 [![Download DracOS Remastered](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/dracos-remastered/files/latest/download)
 ## What is Dracos Linux Remastering ? 
 
-DracOS GNU/Linux Remastered ( https://github.com/dracos-linux ) is the Linux operating system from Indonesian , open source is built based on Debian live project under the protection of the GNU General Public License v3.0. This operating system is one variant of Linux distributions, which is used to perform security testing (penetration testing). Dracos linux in Arm by hundreds hydraulic pentest, forensics and reverse engineering. Use a GUI-based tools-tools the software using the CLI (command line interface) and GUI (graphical user interface) to perform its operations. Now Dracos currently already up to version 3.1.5 with the code name "KUNTILANAK WITH REMASTERED".
+DracOS GNU/Linux Remastered ( https://github.com/dracos-linux ) is the Linux operating system from Indonesia, open source is built based on Debian live project under the protection of the GNU General Public License v3.0. This operating system is one variant of Linux distributions, which is used to perform security testing (penetration testing). Dracos linux in Arm by hundreds hydraulic pentest, forensics and reverse engineering. Use a GUI-based tools-tools the software using the CLI (command line interface) and GUI (graphical user interface) to perform its operations. Now Dracos currently already up to version 3.1.5 with the code name "KUNTILANAK WITH REMASTERED".
 
 [![Download DracOS Remastered](https://sourceforge.net/sflogo.php?type=13&group_id=3426069)](https://sourceforge.net/p/dracos-remastered/)
 
